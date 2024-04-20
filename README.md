@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Xavier</h1>
 <h3 align="center">Grad. Student at UW Milwaukee</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xavier-s-a&label=Profile%20views&color=0e75b6&style=flat" alt="xavier-s-a" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xavier-s-a" alt="xavier-s-a" /></a> </p>
 
